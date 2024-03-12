@@ -3,7 +3,7 @@
 
 
 ## 🚀 Acerca de mí
-Estudie ingeniería de sistemas en la Universidad del Tolima (Colombia), soy ingeniero de desarrollo desde hace 3 años, por eso siempre tengo la disposición para adquirir nuevos conocimientos y habilidades de manera continua, tratando de estar al tanto de las tendencias tecnológicas y buscar oportunidades de desarrollo profesional.
+Estudie ingeniería de sistemas en la Universidad del Tolima (Colombia), soy ingeniero de desarrollo desde hace 3 años, pero siempre tengo la disposición para adquirir nuevos conocimientos y habilidades de manera continua, tratando de estar al tanto de las tendencias tecnológicas y buscar oportunidades de desarrollo profesional.
 
 
 ## 🛠 Habilidades
